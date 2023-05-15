@@ -25,11 +25,8 @@ O professor vai fornecer:
      A MÁQUINA DEVE TER NO MÍNIMO 4 CORES E 8GB DE MEMÓRIA
      (voce DEVE ter um mínimo de processos rodando para não atrapalhar suas medidas)
      assim: 
-         #rode com 20milhoes de elementos em máquina com 8GB assim
-         ./roda-v2.sh 20000000 
-         OU
-         #rode com 500mil de elementos em máquina com 8GB assim
-         ./roda-v2.sh 500000 
+         #rode com 5milhoes de elementos em máquina com 8GB assim
+         ./roda-v2.sh 5000000
          
      esse script vai produzir a saida das experiencias para
      1 a 8 threads (10 vezes cada)
